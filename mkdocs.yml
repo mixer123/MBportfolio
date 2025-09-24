@@ -2,7 +2,8 @@ site_name: Moje projekty
 site_author: Mirosław Butajło
 site_description: >-
     Portfolio moich  projektów z Data Science i AI!
-
+repo_name: MBportfolio
+repo_url: https://github.com/mixer123/MBportfolio
 theme:
   name: material
 
