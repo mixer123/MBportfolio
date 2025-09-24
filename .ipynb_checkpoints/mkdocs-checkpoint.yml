@@ -1,0 +1,16 @@
+site_name: Moje projekty
+site_author: Mirosław Butajło
+site_description: >-
+    Portfolio moich  projektów z Data Science i AI!
+
+theme:
+  name: material
+
+nav:
+- O mnie: index.md
+- Obecny projekt:
+  - "Predykcja czasu biegacza": ML/index.md
+- Poprzednie projekty:
+  - "Transkrypcja mp3 i mp4": transkrypcja/index.md
+- Plany na przyszłość:
+  - "Frekwencja": future/index.md    
