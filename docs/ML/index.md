@@ -8,7 +8,7 @@ Aplikacja umożliwia:
 - intuicyjną obsługę w interfejsie webowym.  
 
 Projekt pokazuje praktyczne zastosowanie **AI w sporcie i analizie danych**. 
-cos
+
 
 
 
