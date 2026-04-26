@@ -10,9 +10,13 @@ theme:
 nav:
 - O mnie: index.md
 - Obecny projekt:
+  - "Predykcja zatowarowania sklepu": SKLEP/index.md
+  - "Agent sprawdzjaący zadanie przesłane przez uczniów": AGENT/index.md
+  - "Agent generujący sprawdzian ": SPRAWDZIAN/index.md
+
+- Poprzednie projekty:
   - "Predykcja czasu biegacza": ML/index.md
   - "Aplikacja obliczająca sumaryczną ilość godzin ponadliczbowych": nadliczbowki/index.md
-- Poprzednie projekty:
   - "Transkrypcja mp3 i mp4": transkrypcja/index.md
 - Plany na przyszłość:
   - "Frekwencja": future/index.md  
