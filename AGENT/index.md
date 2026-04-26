@@ -2,8 +2,8 @@
 
 Stworzyłem aplikację sprawdzającą poprawność przesłanego przez ucznia zadania.
 Aplikacja:
-    - odbiera zadanie wysłane przez ucznia
-    - sprawdza poprawność
-    - wystawia ocenę
-    - generuje recenzję
-    - tworzy raport
+- odbiera zadanie wysłane przez ucznia
+- sprawdza poprawność
+- wystawia ocenę
+- generuje recenzję
+- tworzy raport
